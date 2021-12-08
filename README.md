@@ -9,9 +9,9 @@
 <span>  </span>
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=weirui88888" />
-</div>
+</div> -->
 
 ### My Skills
 
