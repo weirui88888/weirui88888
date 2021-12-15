@@ -30,16 +30,6 @@
 
 
 
-<!--START_SECTION:waka-->
-```text
-Other        26 hrs 14 mins  ████████████████▓░░░░░░░░   66.94 % 
-JavaScript   7 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Vue.js       3 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-YAML         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Markdown     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-```
-<!--END_SECTION:waka-->
-
 
 
 
